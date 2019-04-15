@@ -12,7 +12,8 @@
   "dependencies": {
     "auth0": "^2.5.0",
     "bluebird": "^3.4.6",
-    "dotenv": "^2.0.0"
+    "dotenv": "^2.0.0",
+    "rest-facade": "1.10.1"
   },
   "devDependencies": {
     "aws-sdk": "2.2.48",
