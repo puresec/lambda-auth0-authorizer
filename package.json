@@ -13,7 +13,7 @@
     "auth0": "^2.10.0",
     "bluebird": "^3.4.6",
     "dotenv": "^2.0.0",
-    "rest-facade": "1.10.1"
+    "rest-facade": "1.10.2"
   },
   "devDependencies": {
     "aws-sdk": "^2.563.0",
